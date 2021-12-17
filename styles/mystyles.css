@@ -1,0 +1,39 @@
+.textbox{
+    background-color: linen;}
+
+.bgphoto{
+  background-image: url('../assets/images/beige.jpg');
+  background-position: bottom right;
+  background-repeat: repeat;
+}
+.imgsize{
+  width: 99%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bold {
+  font-weight: bold;
+}
+.accentcolor {
+  background-color: #8c9187;
+  border-color: #8c9187;
+}
+.accenttext {
+  color: #8c9187;
+}
+.center {
+  text-align: center;
+}
+.resumelistheader {
+  font-weight: bold;
+  font-style: normal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.black {
+  color: black;
+}
